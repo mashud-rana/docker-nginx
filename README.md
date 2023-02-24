@@ -11,3 +11,5 @@ Build docker file add tag name
 ### `docker run --rm -p 80:80 laravel-nginx`
 
 Run docker
+
+http://localhost/
